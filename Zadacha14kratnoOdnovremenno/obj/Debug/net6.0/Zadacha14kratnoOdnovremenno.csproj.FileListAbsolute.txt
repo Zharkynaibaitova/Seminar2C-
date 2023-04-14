@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha14kratnoOdnovremenno\bin\Debug\net6.0\Zadacha14kratnoOdnovremenno.exe
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha14kratnoOdnovremenno\bin\Debug\net6.0\Zadacha14kratnoOdnovremenno.deps.json
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha14kratnoOdnovremenno\bin\Debug\net6.0\Zadacha14kratnoOdnovremenno.runtimeconfig.json
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha14kratnoOdnovremenno\bin\Debug\net6.0\Zadacha14kratnoOdnovremenno.dll
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha14kratnoOdnovremenno\bin\Debug\net6.0\Zadacha14kratnoOdnovremenno.pdb
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha14kratnoOdnovremenno\obj\Debug\net6.0\Zadacha14kratnoOdnovremenno.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha14kratnoOdnovremenno\obj\Debug\net6.0\Zadacha14kratnoOdnovremenno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha14kratnoOdnovremenno\obj\Debug\net6.0\Zadacha14kratnoOdnovremenno.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha14kratnoOdnovremenno\obj\Debug\net6.0\Zadacha14kratnoOdnovremenno.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha14kratnoOdnovremenno\obj\Debug\net6.0\Zadacha14kratnoOdnovremenno.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha14kratnoOdnovremenno\obj\Debug\net6.0\Zadacha14kratnoOdnovremenno.dll
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha14kratnoOdnovremenno\obj\Debug\net6.0\refint\Zadacha14kratnoOdnovremenno.dll
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha14kratnoOdnovremenno\obj\Debug\net6.0\Zadacha14kratnoOdnovremenno.pdb
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha14kratnoOdnovremenno\obj\Debug\net6.0\Zadacha14kratnoOdnovremenno.genruntimeconfig.cache
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha14kratnoOdnovremenno\obj\Debug\net6.0\ref\Zadacha14kratnoOdnovremenno.dll

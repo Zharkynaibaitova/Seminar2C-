@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zadacha14kratnoOdnovremenno/1.0.0": {
+        "runtime": {
+          "Zadacha14kratnoOdnovremenno.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zadacha14kratnoOdnovremenno/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
