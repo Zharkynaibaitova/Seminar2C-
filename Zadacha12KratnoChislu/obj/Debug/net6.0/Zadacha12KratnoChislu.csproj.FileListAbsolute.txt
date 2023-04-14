@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha12KratnoChislu\bin\Debug\net6.0\Zadacha12KratnoChislu.exe
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha12KratnoChislu\bin\Debug\net6.0\Zadacha12KratnoChislu.deps.json
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha12KratnoChislu\bin\Debug\net6.0\Zadacha12KratnoChislu.runtimeconfig.json
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha12KratnoChislu\bin\Debug\net6.0\Zadacha12KratnoChislu.dll
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha12KratnoChislu\bin\Debug\net6.0\Zadacha12KratnoChislu.pdb
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha12KratnoChislu\obj\Debug\net6.0\Zadacha12KratnoChislu.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha12KratnoChislu\obj\Debug\net6.0\Zadacha12KratnoChislu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha12KratnoChislu\obj\Debug\net6.0\Zadacha12KratnoChislu.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha12KratnoChislu\obj\Debug\net6.0\Zadacha12KratnoChislu.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha12KratnoChislu\obj\Debug\net6.0\Zadacha12KratnoChislu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha12KratnoChislu\obj\Debug\net6.0\Zadacha12KratnoChislu.dll
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha12KratnoChislu\obj\Debug\net6.0\refint\Zadacha12KratnoChislu.dll
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha12KratnoChislu\obj\Debug\net6.0\Zadacha12KratnoChislu.pdb
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha12KratnoChislu\obj\Debug\net6.0\Zadacha12KratnoChislu.genruntimeconfig.cache
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha12KratnoChislu\obj\Debug\net6.0\ref\Zadacha12KratnoChislu.dll
