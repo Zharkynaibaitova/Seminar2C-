@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\SluchChislo\bin\Debug\net6.0\SluchChislo.exe
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\SluchChislo\bin\Debug\net6.0\SluchChislo.deps.json
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\SluchChislo\bin\Debug\net6.0\SluchChislo.runtimeconfig.json
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\SluchChislo\bin\Debug\net6.0\SluchChislo.dll
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\SluchChislo\bin\Debug\net6.0\SluchChislo.pdb
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\SluchChislo\obj\Debug\net6.0\SluchChislo.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\SluchChislo\obj\Debug\net6.0\SluchChislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\SluchChislo\obj\Debug\net6.0\SluchChislo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\SluchChislo\obj\Debug\net6.0\SluchChislo.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\SluchChislo\obj\Debug\net6.0\SluchChislo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\SluchChislo\obj\Debug\net6.0\SluchChislo.dll
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\SluchChislo\obj\Debug\net6.0\refint\SluchChislo.dll
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\SluchChislo\obj\Debug\net6.0\SluchChislo.pdb
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\SluchChislo\obj\Debug\net6.0\SluchChislo.genruntimeconfig.cache
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\SluchChislo\obj\Debug\net6.0\ref\SluchChislo.dll
