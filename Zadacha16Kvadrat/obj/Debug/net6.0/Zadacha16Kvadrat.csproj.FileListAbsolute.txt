@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha16Kvadrat\bin\Debug\net6.0\Zadacha16Kvadrat.exe
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha16Kvadrat\bin\Debug\net6.0\Zadacha16Kvadrat.deps.json
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha16Kvadrat\bin\Debug\net6.0\Zadacha16Kvadrat.runtimeconfig.json
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha16Kvadrat\bin\Debug\net6.0\Zadacha16Kvadrat.dll
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha16Kvadrat\bin\Debug\net6.0\Zadacha16Kvadrat.pdb
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha16Kvadrat\obj\Debug\net6.0\Zadacha16Kvadrat.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha16Kvadrat\obj\Debug\net6.0\Zadacha16Kvadrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha16Kvadrat\obj\Debug\net6.0\Zadacha16Kvadrat.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha16Kvadrat\obj\Debug\net6.0\Zadacha16Kvadrat.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha16Kvadrat\obj\Debug\net6.0\Zadacha16Kvadrat.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha16Kvadrat\obj\Debug\net6.0\Zadacha16Kvadrat.dll
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha16Kvadrat\obj\Debug\net6.0\refint\Zadacha16Kvadrat.dll
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha16Kvadrat\obj\Debug\net6.0\Zadacha16Kvadrat.pdb
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha16Kvadrat\obj\Debug\net6.0\Zadacha16Kvadrat.genruntimeconfig.cache
+C:\Users\user\Desktop\Seminar2C#\Seminar2C-\Zadacha16Kvadrat\obj\Debug\net6.0\ref\Zadacha16Kvadrat.dll
